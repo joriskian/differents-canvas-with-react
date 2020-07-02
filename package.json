@@ -1,0 +1,29 @@
+{
+  "name": "react02",
+  "version": "1.0.0",
+  "description": "three and p5 in react",
+  "main": "app.js",
+  "dependencies": {
+    "p5": "^1.0.0",
+    "three": "^0.117.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joriskian/react.git"
+  },
+  "keywords": [
+    "react",
+    "THREE",
+    "P5"
+  ],
+  "author": "Joris Kulunkian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joriskian/react/issues"
+  },
+  "homepage": "https://github.com/joriskian/react#readme"
+}
